@@ -6,6 +6,9 @@ For this part, you will learn how to choose the right text editor to make your H
 
 _________________________________________________________________________________________________________________
 
+Why are text editors important?
+Text editors are the most important things you will need to make your website. 
+You can add HTML and CSS code to your text editor and it will show on your webpage.
 
 Here are some text editors that you can use. I will why they are useful later.
 
@@ -21,4 +24,20 @@ I this might just sound straight out weird, but i'm not kidding!
 The notepad app are GREAT for begginers and does not have many features that might be confusing or too complicated for you.
 
 2. Atom 
-Atom is a great text editor if you are a <i>intermediate</i> coder. 
+Atom is a great text editor if you are an intermediate coder.
+It includes many diffrent and USEFUL features which include:
+Github For Atom
+Auto Correction
+Smart autocompletion
+File system browser
+Find and replace
+and Cross-platform editing.
+
+3. Sublime text editor
+Ok, so it might sound weird, but I have like nothing to say about this text editor.
+I'm not saying it's a bad text editor, but it like has the same features at Atom.
+I just picked this 3rd instead of 2nd, because I liked the design better.
+
+4. Notepad++
+This comes with many diffrent features that you would expect to come with a text editor.
+You might not like the design but it is mostly like Notepad but a little better.
